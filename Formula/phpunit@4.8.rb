@@ -5,7 +5,7 @@ class PhpunitAT48 < AbstractPhpPhar
   desc "(Legacy) Programmer-oriented testing framework for PHP"
   homepage "http://phpunit.de/manual/4.8/en/"
   url "https://phar.phpunit.de/phpunit-4.8.phar"
-  sha256 "713295ba89db9e662bf2cf5cccdb5d0791bdd5a043706505d47be08d369eda3f"
+  sha256 "ab8bc3017a64cf75a2112f5e089a1d5b0c4cc2116556d60c1af5e3f584e85c5e"
 
   bottle do
     cellar :any_skip_relocation
